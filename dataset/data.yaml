@@ -1,0 +1,6 @@
+train: C:\Users\admin\PycharmProjects\SemenAnalyser\dataset\train\images
+val: C:\Users\admin\PycharmProjects\SemenAnalyser\dataset\valid\images
+test: C:\Users\admin\PycharmProjects\SemenAnalyser\dataset\test\images
+
+nc: 3
+names: ['abnormal sperm', 'non-sperm', 'normal sperm']
